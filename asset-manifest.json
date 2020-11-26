@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zodiac-showdown/static/css/main.6df0addb.chunk.css",
+    "main.js": "/zodiac-showdown/static/js/main.52c0b3aa.chunk.js",
+    "main.js.map": "/zodiac-showdown/static/js/main.52c0b3aa.chunk.js.map",
+    "runtime-main.js": "/zodiac-showdown/static/js/runtime-main.9d1d5d14.js",
+    "runtime-main.js.map": "/zodiac-showdown/static/js/runtime-main.9d1d5d14.js.map",
+    "static/js/2.832af283.chunk.js": "/zodiac-showdown/static/js/2.832af283.chunk.js",
+    "static/js/2.832af283.chunk.js.map": "/zodiac-showdown/static/js/2.832af283.chunk.js.map",
+    "index.html": "/zodiac-showdown/index.html",
+    "static/css/main.6df0addb.chunk.css.map": "/zodiac-showdown/static/css/main.6df0addb.chunk.css.map",
+    "static/js/2.832af283.chunk.js.LICENSE.txt": "/zodiac-showdown/static/js/2.832af283.chunk.js.LICENSE.txt",
+    "static/media/Instructions.css": "/zodiac-showdown/static/media/Alatsi-Regular.16450b7f.ttf",
+    "static/media/Navbar.css": "/zodiac-showdown/static/media/Arvo-Regular.04ca96c3.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d1d5d14.js",
+    "static/js/2.832af283.chunk.js",
+    "static/css/main.6df0addb.chunk.css",
+    "static/js/main.52c0b3aa.chunk.js"
+  ]
+}
