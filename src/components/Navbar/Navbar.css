@@ -1,0 +1,38 @@
+@font-face {
+    font-family: ArvoRegular;
+    src: url('../../fonts/Arvo-Regular.ttf');
+}
+
+.navbar {
+    position: sticky;
+    z-index: 100;
+    top: 0px;
+    padding: 0px;
+    background: rgba(26, 25, 25, 0.5) !important;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.navbar img {
+    width: 50px;
+    margin-left: 1rem;
+    height: auto;
+}
+
+.nav-link {
+    color: white !important;
+    font-size: 15px;
+    letter-spacing: 0em;
+    margin-right: 20px;
+    line-height: 45px;
+    text-align: center;
+}
+
+.navbar-collapse {
+    flex-grow: unset !important;
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+    }
+}

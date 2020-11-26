@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Alatsi;
+    src: url('../../fonts/Alatsi-Regular.ttf');
+}
+
+.instructions {
+    background-color: black;
+    font-family: Alatsi;
+}
+
+.card-img {
+    margin: 0 auto;
+    position: relative;
+    display: block;
+    width: 50%;
+}
